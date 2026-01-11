@@ -21,6 +21,7 @@ class CfgMods
     picture="VanillaBases/data/picture.paa";
     logoSmall="VanillaBases/data/logoSmall.paa";
     logo="VanillaBases/data/logo.paa";
+    logoOver="VanillaBases/data/logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638011793";
     credits="moldypenguins";
     author="moldypenguins";

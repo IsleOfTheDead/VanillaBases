@@ -4,6 +4,7 @@ overview="5x health for Fence, Watchtower, BarbedWire, BarbedWireLocked, Combina
 picture="VanillaBases/data/picture.paa";
 logoSmall="VanillaBases/data/logoSmall.paa";
 logo="VanillaBases/data/logo.paa";
-action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480;
+logoOver="VanillaBases/data/logo.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480";
 author="moldypenguins";
 version="1.1";
