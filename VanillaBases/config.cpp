@@ -26,16 +26,12 @@ class CfgMods
     credits="moldypenguins";
     author="moldypenguins";
     authorID="76561198312711389";
-    version="1.1";
+    version="1.2";
     type="mod";
     dependencies[]={};
     class defs
     {
-      class engineScriptModule
-      {
-        value="";
-        files[]={ "VanillaBases\scripts\1_core" };
-      };
+      class engineScriptModule { value=""; files[]={ "VanillaBases\scripts\1_core" }; };
     }
   };
 };
